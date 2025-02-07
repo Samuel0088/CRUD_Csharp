@@ -1,0 +1,16 @@
+C:\Users\samue\Downloads\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\samue\Downloads\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\samue\Downloads\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.Form1.resources
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.pdb
+C:\Users\samue\Downloads\Contact\Contact\bin\Debug\ContactDB.mdf
+C:\Users\samue\Downloads\Contact\Contact\bin\Debug\ContactDB_log.ldf
+C:\Users\samue\Downloads\Contact\Contact\bin\Debug\Contact.exe.manifest
+C:\Users\samue\Downloads\Contact\Contact\bin\Debug\Contact.application
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.exe.manifest
+C:\Users\samue\Downloads\Contact\Contact\obj\Debug\Contact.application
